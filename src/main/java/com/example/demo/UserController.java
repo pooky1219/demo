@@ -11,4 +11,7 @@ public class UserController {
 
     }
 
+    public void deleteUser() {
+
+    }
 }
